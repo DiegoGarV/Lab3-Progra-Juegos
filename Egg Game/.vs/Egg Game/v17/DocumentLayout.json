@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\ForceLookAt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ForceLookAt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\Damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EndgameTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EndgameTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\AttackHitboxDriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AttackHitboxDriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EnemyBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\PlayerEggController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\CamaraTargetFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CamaraTargetFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EnemyBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\EnemyBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +38,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ForceLookAt.cs",
-              "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\ForceLookAt.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ForceLookAt.cs",
-              "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\ForceLookAt.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ForceLookAt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Damage.cs",
+              "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\Damage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damage.cs",
+              "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\Damage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T03:16:13.406Z",
+              "WhenOpened": "2026-03-04T01:26:43.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AttackHitboxDriver.cs",
+              "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\AttackHitboxDriver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackHitboxDriver.cs",
+              "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\AttackHitboxDriver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackHitboxDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T01:16:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndgameTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EndgameTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndgameTrigger.cs",
+              "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EndgameTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndgameTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T23:49:03.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T23:41:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EnemyBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EnemyBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBehaviour.cs",
               "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\EnemyBehaviour.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyBehaviour.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAYwI4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T08:53:51.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CamaraTargetFollow.cs",
               "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\CamaraTargetFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CamaraTargetFollow.cs",
@@ -69,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerEggController.cs",
               "DocumentMoniker": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\PlayerEggController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerEggController.cs",
               "ToolTip": "C:\\Users\\casa\\Documents\\GitHub\\Lab3-Progra-Juegos\\Egg Game\\Assets\\Scripts\\PlayerEggController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerEggController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T04:54:42.445Z",
               "EditorCaption": ""
